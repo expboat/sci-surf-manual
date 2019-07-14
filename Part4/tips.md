@@ -20,18 +20,18 @@
 
 Windows 徽标键 ![win-icon-WindowsLogo](https://github.com/expboat/sci-surf-manual/blob/master/images/win-icon-WindowsLogo.png) + R (打开“运行”对话框)
 
-“运行”对话框中输入
+“运行”对话框中输入：
 
  `powershell`
  
-powershell 中输入一下内容：
+powershell 中输入：
 ```
 cd D:\
 
 CertUtil -encode file.txt encode.txt
 CertUtil -decode encode.txt decode.txt 
 ```
-其中，base64 编码就在 encode.txt 中
+其中，base64 编码就在 encode.txt 中。
 
 #
 
@@ -63,9 +63,9 @@ CertUtil -decode encode.txt decode.txt
 
 非科班出身的读者可以将base64理解为化妆，楼主将邮箱地址'化妆'，网友用卸妆术才能看到邮箱真面目 
 
-~更准确的比喻：邮箱是人，邮箱摘要是这个人的指纹~ 。
+~更准确的比喻----邮箱是人，邮箱摘要是这个人的指纹~ 。
 
-这是[v2EX](https://www.v2ex.com)上特有的文化，可能是因为程序员们都喜欢用它来防止爬虫、人肉搜素以及不会化妆的HR，所以在站内流行开来。
+这是[v2EX](https://www.v2ex.com)特有的文化，可能是因为程序员们都喜欢用它来防止爬虫、人肉搜素以及不会化妆的HR，所以在站内流行开来。
 
 如果要在其他论坛留下"化妆的邮箱"，最好将本文[链接](https://github.com/expboat/sci-surf-manual/blob/master/Part4/tips.md)附上。
 
