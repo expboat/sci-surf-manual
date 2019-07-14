@@ -15,4 +15,6 @@
 > - [**高阶软件**](Part.2.high.level.software.md)
 > - [**虚拟机**](Part.2.virtualbox.md)
 
-> - [**邮 箱**](Part.2.emial.md)
+> - [**邮 箱**](Part.3.emial.md)
+
+> - [**小技巧**](Part.4.tips.md)
