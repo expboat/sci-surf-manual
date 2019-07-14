@@ -6,13 +6,17 @@
 
 - windows:
 
-```
-Windows 徽标键  + R (打开“运行”对话框)
+D:\ 创建文本文件 file.txt ，输入 my_email_is_{example[at]email.com base}
+Windows 徽标键 ![win-icon-WindowsLogo](https://github.com/expboat/sci-surf-manual/blob/master/images/win-icon-WindowsLogo.png) + R (打开“运行”对话框)
 输入 powershell
 
-certuil -encode 
-# TODO
 ```
+cd D:\
+
+CertUtil -encode file.txt encode.txt
+CertUtil -decode encode.txt decode.txt 
+```
+base64 编码就在 encode.txt 中
 
 - linux:
 
