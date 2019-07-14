@@ -25,12 +25,14 @@ Windows 徽标键 ![win-icon-WindowsLogo](https://github.com/expboat/sci-surf-ma
  `powershell`
  
 powershell 中输入：
+
 ```
 cd D:\
 
 CertUtil -encode file.txt encode.txt
 CertUtil -decode encode.txt decode.txt 
 ```
+
 其中，base64 编码就在 encode.txt 中。
 
 #
@@ -38,11 +40,11 @@ CertUtil -decode encode.txt decode.txt
 - linux:
 
 ```
-~$ echo "my_email_is_{example[at]email.com base}" | base64
-   bXlfZW1haWxfaXNfe2V4YW1wbGVbYXRdZW1haWwuY29tIGJhc2V9Cg==
+~$ echo "my_email_is_{example[at]email.com}" | base64
+   bXlfZW1haWxfaXNfe2V4YW1wbGVbYXRdZW1haWwuY29tfQo=
 
-~$ echo "bXlfZW1haWxfaXNfe2V4YW1wbGVbYXRdZW1haWwuY29tIGJhc2V9Cg==" | base64 --decode 
-   my_email_is_{example[at]email.com base}
+~$ echo "bXlfZW1haWxfaXNfe2V4YW1wbGVbYXRdZW1haWwuY29tfQo=" | base64 --decode 
+   my_email_is_{example[at]email.com}
 ```
 
 #
