@@ -5,8 +5,13 @@
 #### [**base64**](https://www.v2ex.com/t/482716)
 
 - windows:
+
 ```
-#TODO
+Windows 徽标键  + R (打开“运行”对话框)
+输入 powershell
+
+certuil -encode 
+# TODO
 ```
 
 - linux:
@@ -43,3 +48,6 @@
 [*更详细的解释](/Part4/tips-message-digest.md)
 > 预览 摘要与加密 什么是摘要 ...
 #
+
+
+[其他windows下快捷方式](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
