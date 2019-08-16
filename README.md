@@ -4,6 +4,7 @@
 > 越多人使用指南针，航海就越安全
 
 ### 目录
+> - [**快速开始**](/Part0/quick_start.md)
 
 > - [**前 言**](/Part0/preface.md)
 > - [**准备工作**](/Part0/prepare_for_surfing.md)
