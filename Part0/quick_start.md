@@ -28,7 +28,15 @@
 
 
 ### 软件
+
 输入法：系统自带
+
 截图: 系统快捷键 Alt + Print Screen
+
 虚拟键盘:系统自带
-浏览器: Firefox esr
+
+浏览器: 
+
+- (推荐)稳定版[Firefox esr](https://download.mozilla.org/?product=firefox-esr-latest&os=win&lang=en-US)
+- 最新版[Firefox](https://download.mozilla.org/?product=firefox-latest&os=win&lang=en-US)
+
