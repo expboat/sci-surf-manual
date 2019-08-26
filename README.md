@@ -1,7 +1,4 @@
-## sci-surf-manual
-> No man is an island, entire of itself.
-## 科学冲浪手册
-> 越多人使用指南针，航海就越安全
+
 
 ### 目录
 > - [**快速开始**](/Part0/quick_start.md)
