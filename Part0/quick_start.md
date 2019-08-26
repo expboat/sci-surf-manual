@@ -39,4 +39,5 @@
 
 - (推荐)稳定版[Firefox esr](https://download.mozilla.org/?product=firefox-esr-latest&os=win&lang=en-US)
 - 最新版[Firefox](https://download.mozilla.org/?product=firefox-latest&os=win&lang=en-US)
+- [中文语言包](https://addons.mozilla.org/zh-CN/firefox/addon/chinese-simplified-zh-cn-la/) 安装语言包后阅读 [官方改变语言教程](https://support.mozilla.org/zh-CN/kb/%E4%BD%BF%E7%94%A8%E8%AF%AD%E8%A8%80%E5%8C%85%E6%94%B9%E5%8F%98Firefox%E7%95%8C%E9%9D%A2%E8%AF%AD%E8%A8%80)
 
